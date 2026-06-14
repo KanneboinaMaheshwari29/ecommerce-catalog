@@ -29,9 +29,16 @@
     ├── product3.jpg
     └── product4.jpg
 
-    ## 📸 Screenshots
+ ## 📸 Screenshots
 
-![Homepage](screenshots/homepage.png)
+![product1](images/product1.png)
+
+![product2](images/product2.png)
+
+![product3](images/product3.png)
+
+![product4](images/product4.png)
+
 
 ## 🔮 Future Enhancements
 

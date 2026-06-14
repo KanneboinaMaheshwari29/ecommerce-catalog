@@ -18,14 +18,14 @@ const products = [
         id: 3,
         name: "Smart Watch",
         price: "$150",
-        image: "images/product3.avif"
+        image: "images/product4.jpg"
     },
 
     {
         id: 4,
         name: "Gaming Laptop",
         price: "$999",
-        image: "images/product4.jpg"
+        image: "images/product3.avif"
     }
 
 ];
