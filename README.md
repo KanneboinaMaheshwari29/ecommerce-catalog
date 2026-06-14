@@ -32,19 +32,19 @@
  ## 📸 Screenshots
 
 # product1
-![product1](images/product1.png)
+![product1](images/product1.webp)
 
 # product2
 
-![product2](images/product2.png)
+![product2](images/product2.avif)
 
 # product3
 
-![product3](images/product3.png)
+![product3](images/product3.avif)
 
 # product4
 
-![product4](images/product4.png)
+![product4](images/product4.jpg)
 
 
 ## 🔮 Future Enhancements
